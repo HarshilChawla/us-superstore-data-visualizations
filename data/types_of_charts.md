@@ -6,7 +6,7 @@ A comprehensive guide to common chart types, their ideal use cases, and when to 
 
 ## 1. Bar Chart (Horizontal)
 
-**What it shows:** Each bar = a category, bar length = value.  
+**What it shows:** Each bar is a category, bar length is value.  
 **Example:** Average rating of products (Product A, B, C). Bar length tells us how much higher/lower one product’s rating is compared to others.  
 **When to use:** Comparing categories, especially when category names are long (horizontal space helps).  
 **When not to use:** If you have time-based data -> better to use a line/column chart; if too many categories (>15) -> becomes cluttered.
